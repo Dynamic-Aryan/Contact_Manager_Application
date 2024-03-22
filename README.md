@@ -22,8 +22,13 @@ The Contact Manager Application is a basic backend project aimed at managing con
 2)MongoDB database instance set up.
 
 ## Installation
+
 1)git clone https://github.com/Dynamic-Aryan/Contact_Manager_Application.git
+
 2)cd express-project
+
 3)cd mycontacts-backend
+
 4)npm i
+
 5)npm run dev
